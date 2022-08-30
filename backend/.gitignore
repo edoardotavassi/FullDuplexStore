@@ -1,0 +1,3 @@
+*.pyc
+general.log
+.env
